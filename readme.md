@@ -10,6 +10,6 @@
 
 ## Как открыть/запустить
 
-Можно открыть на [GitHub Pages](https://ekaterina-35.github.io/Task_4/Task_4/index.html).
+Можно открыть на [GitHub Pages](https://ekaterina-35.github.io/Task_7/).
 
 Также, можно зайти в папку сайта в файловом менеджере, кликнуть два раза по файлу index.html. Проект открывается и в файловом менеджере и из-под LiveServer среды разработки.
