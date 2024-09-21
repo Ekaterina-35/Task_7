@@ -1,0 +1,13 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: rgb(255, 245, 224);
+}
+
